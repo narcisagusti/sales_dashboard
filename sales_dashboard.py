@@ -410,5 +410,5 @@ with tab_detailed_data:
 
 # --- Footer ---
 st.sidebar.markdown("---")
-st.sidebar.info("Sales Dashboard v2.0. Uses simulated data.")
+st.sidebar.info("Advanced Sales Dashboard v2.0. Uses simulated data.")
 st.sidebar.markdown("Developed for INDIVIDUAL ACTIVITY 3.")
