@@ -1,5 +1,7 @@
 RATIONALE
+
 This document outlines the design decisions for the enhanced Streamlit Sales Performance Dashboard. These decisions are grounded in established cognitive principles, data visualization best practices, and bias mitigation strategies, as discussed in the provided course materials. Version 2.0 significantly expands upon the initial dashboard by incorporating more granular data, introducing new metrics such as profit, implementing advanced filtering capabilities, and utilizing a tabbed interface for structured and focused analysis.
+
 1. Project Objective and Target Audience
 
 Objective: To provide sales leadership, managers, and analysts with a comprehensive, interactive platform to deeply analyze sales performance across multiple dimensions, including time, geography, product hierarchy, and sales team. The primary aim is to facilitate strategic decision-making, enable the identification of growth opportunities, pinpoint areas of concern, and support the optimization of sales strategies.
